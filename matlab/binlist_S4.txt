@@ -1,0 +1,23 @@
+bin 1
+stimuli 10
+.{10}
+
+bin 2
+stimuli 11
+.{11}
+
+bin 3
+stimuli 20
+.{20}
+
+bin 4
+stimuli 21
+.{21}
+
+bin 5
+stimuli 30
+.{30}
+
+bin 6
+stimuli 40
+.{40}
