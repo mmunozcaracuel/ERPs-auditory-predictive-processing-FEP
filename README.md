@@ -43,7 +43,7 @@ project/
 └── results/              # Generated extraction and statistical outputs
 ```
 
-Only the contents of `Code` should be uploaded to the public repository. Replace the example `/path/to/project` paths below with your own absolute paths. Use new output directories for extraction and statistical analyses.
+Replace the example `/path/to/project` paths below with your own absolute paths. Use new output directories for extraction and statistical analyses.
 
 ## Workflow
 
