@@ -39,8 +39,6 @@ Keep `Code` and the private `EEG` folder inside the same project directory. Repl
 
 Review and execute the relevant sections of `matlab/preprocessing_reference.m`, starting from EEGLAB `.set` datasets. Manual inspection is required; `runPreprocessing = false` prevents unattended execution. Use working copies, as preprocessing can overwrite intermediate files.
 
-If averaged matrices are already available, skip preprocessing. To generate missing pre-S4-baselined PINV matrices for plotting, execute only the path configuration section and section 8.
-
 ### 2. Extract ERP measures
 
 Prepare a phenotypic CSV with one row per participant and matching subject identifiers. Required covariates and outcome columns are defined in `R/functions.R`.
